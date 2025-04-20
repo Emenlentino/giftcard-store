@@ -1,7 +1,7 @@
 
 # 🛒 Emenlentino Gift Card Store
 
-Welcome to **Emenlentino**, a modern, user-friendly web platform where **everyone can sell** gift cards, and buyers can confidently shop premium in-game currency cards like:
+Welcome to **Acalen**, a modern, user-friendly web platform where **everyone can sell** gift cards, and buyers can confidently shop premium in-game currency cards like:
 
 🎮 **Roblox**  
 🎮 **Overwatch 2**  
