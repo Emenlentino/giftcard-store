@@ -1,0 +1,24 @@
+/* General Styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-color, #f8f9fa);
+  color: var(--text-color, #000);
+}
+
+button#dark-mode-toggle {
+  z-index: 1050;
+}
+
+/* Dark Mode Variables */
+body.dark-mode {
+  --bg-color: #212529;
+  --text-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+img.rounded-circle {
+  border-radius: 50%;
+}
