@@ -1,5 +1,5 @@
 
-# 🛒 Emenlentino Gift Card Store
+# 🛒 Acalen Gift Card Store
 
 Welcome to **Acalen**, a modern, user-friendly web platform where **everyone can sell** gift cards, and buyers can confidently shop premium in-game currency cards like:
 
